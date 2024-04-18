@@ -1,0 +1,9 @@
+.container {
+    border: 2pxsolid blue;
+}
+
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(214, 25, 85)
+}
